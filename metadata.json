@@ -1,0 +1,6 @@
+{
+  "name": "GGPS Sarmast Mira Khel",
+  "description": "Complete Android School Management System for Government Girls Primary School Sarmast Mira Khel Bannu",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
